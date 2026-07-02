@@ -48,4 +48,3 @@ Travel and hotel booking web application built using JavaScript.
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/anjali-jaiswal/
-- 📧 Email: your-email@example.com
