@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anjali Jaiswal</h1>
+<h3 align="center">Java Developer | Web Developer</h3>
 
-<!--
-**anjali22334455/anjali22334455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anjali22334455&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌐 Full Stack Developer
+- 📚 Passionate about Programming & Problem Solving
+- ✨ Love building real-world web applications
+
+---
+
+## 🛠 Tech Stack
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### **Programming & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,postman" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### ⭐ **MiniChatApp**
+Java-based chat application with real-time communication concepts.
+
+### ⭐ **My Portfolio**
+Personal portfolio website showcasing skills, projects, and achievements.
+
+### ⭐ **Wanderlust Project**
+Travel and hotel booking web application built using JavaScript.
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/anjali-jaiswal/
+- 📧 Email: your-email@example.com
