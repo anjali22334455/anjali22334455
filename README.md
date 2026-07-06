@@ -38,8 +38,8 @@
 ### ⭐ Career Readiness Analyser
 Full-stack web application that evaluates career readiness based on skills, projects, resume, and academic profile, providing personalized recommendations for upskilling and career growth.
 
-### ⭐ **Wanderlust Project**
-Travel and hotel booking web application built using JavaScript.
+### ⭐ Wanderlust Project
+Full-stack MERN travel and hotel booking application with secure authentication, property listings, reviews, and map integration.
 
 ### ⭐ **MiniChatApp**
 Java-based chat application with real-time communication concepts.
