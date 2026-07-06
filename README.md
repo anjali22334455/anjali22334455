@@ -35,14 +35,17 @@
 
 ## 📌 Featured Projects
 
+### ⭐ Career Readiness Analyser
+Full-stack web application that evaluates career readiness based on skills, projects, resume, and academic profile, providing personalized recommendations for upskilling and career growth.
+
+### ⭐ **Wanderlust Project**
+Travel and hotel booking web application built using JavaScript.
+
 ### ⭐ **MiniChatApp**
 Java-based chat application with real-time communication concepts.
 
 ### ⭐ **My Portfolio**
 Personal portfolio website showcasing skills, projects, and achievements.
-
-### ⭐ **Wanderlust Project**
-Travel and hotel booking web application built using JavaScript.
 
 ---
 
