@@ -50,4 +50,5 @@ Personal portfolio website showcasing skills, projects, and achievements.
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/anjali-jaiswal/
+- 💼 LinkedIn: www.linkedin.com/in/anjali-jaiswal-438a1328b
+- 
